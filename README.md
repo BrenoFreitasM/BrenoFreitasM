@@ -15,10 +15,9 @@
  
 <div> 
 
-- 🔭 I’m currently working on trainee.
+- 🔭 Right now i'm trainee.
 - 🌱 I’m currently learning compilers, CG, advanced topics in computing, buiness and digital law.
-- 👯 I’m looking to collaborate on java trainee.
-- 🤔 I’m looking for help with join in Dev trainee.
-- 📫 How to reach me: Brazil.
+- 👯 I’m looking to get be a Java trainee.
+- 🤔 I’m looking for to be a Dev.
 
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                                                                                         <a href = "mailto:brenofreitasmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>         
